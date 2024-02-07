@@ -2,17 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/posts/helloworld/</loc>
+    <loc>http://auntieyafen.github.io/aboutme/</loc>
+    <lastmod>2024-02-07T19:02:35+08:00</lastmod>
+  </url><url>
+    <loc>http://auntieyafen.github.io/tags/me/</loc>
+    <lastmod>2024-02-07T19:02:35+08:00</lastmod>
+  </url><url>
+    <loc>http://auntieyafen.github.io/tags/</loc>
+    <lastmod>2024-02-07T19:02:35+08:00</lastmod>
+  </url><url>
+    <loc>http://auntieyafen.github.io/</loc>
+    <lastmod>2024-02-07T19:02:35+08:00</lastmod>
+  </url><url>
+    <loc>http://auntieyafen.github.io/posts/helloworld/</loc>
     <lastmod>2024-02-07T16:44:57+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>http://auntieyafen.github.io/posts/</loc>
     <lastmod>2024-02-07T16:44:57+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>http://auntieyafen.github.io/posts/sharing/</loc>
     <lastmod>2024-02-07T16:44:57+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
-  </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>http://auntieyafen.github.io/categories/</loc>
   </url>
 </urlset>
